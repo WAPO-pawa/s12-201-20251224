@@ -1,0 +1,21 @@
+{
+  "name": "gdp-visualization-vue",
+  "version": "1.0.0",
+  "description": "Interactive GDP Visualization for China Provinces (Vue 3)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "echarts": "^5.4.3",
+    "vue": "^3.4.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0"
+  }
+}
